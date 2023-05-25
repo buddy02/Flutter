@@ -1,4 +1,4 @@
-# i_am_rich
+# Gita app
 
 A new Flutter project.
 
