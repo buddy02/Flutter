@@ -1,4 +1,4 @@
-# gita
+# Image Changer App
 
 A new Flutter project.
 
